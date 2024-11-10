@@ -1,5 +1,5 @@
 # poo-escritorio
-<h1>Projeto de gerenciamento de escritório usando Programação Orientada a Objetos em PHP para trabalho acadêmico</h1>
+<h3>Projeto de gerenciamento de escritório usando Programação Orientada a Objetos em PHP para trabalho acadêmico</h3>
 
 index.php: Script principal para testar o sistema. Ele cria instâncias de Escritorio, Armario, Gaveta, e dos itens (Documento, Objeto, e Pasta). Também realiza operações de adição, remoção e uma auditoria completa do escritório, exibindo todos os itens armazenados.
 
